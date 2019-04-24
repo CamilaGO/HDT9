@@ -13,8 +13,8 @@ package hdt9;
 import java.util.NoSuchElementException;
 
 
-public class RedBlackTree<Key extends Comparable<Key>, Value> {
-        private static final boolean RED   = true;
+public class RedBlackTree<Key extends Comparable<Key>, Value> implements TreeInterface<Key, Value> {
+    private static final boolean RED   = true;
     private static final boolean BLACK = false;
     private Node root;    
     
