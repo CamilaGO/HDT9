@@ -1,14 +1,15 @@
 package hdt9;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Algoritmo y Estructura de datos - Seccion 10 
+ * Maria Ines Vasquez Figueroa 18250 -  Paula Camila Gonzalez Ortega 18398
+ * Abril 2019
+ * Clase de interfaz que implementan nuestros arboles con metods que ambos arboles requieren necesariamente para nuestro diccionario
  */
 
 /**
  *
- * @author Camila.Maria
+ * @author Camila
  * @param <Key>
  * @param <Value>
  */
