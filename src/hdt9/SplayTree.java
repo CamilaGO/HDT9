@@ -4,7 +4,7 @@
  * Abril 2019
  * Clase de de un arbol tipo Splay
  */
-package hdt9;
+//package hdt9;
 
 /**
  * Extraido de https://algs4.cs.princeton.edu/33balanced/SplayBST.java.html
